@@ -1,0 +1,12 @@
+.body
+{
+    background-color: black;
+    font:bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title
+{
+    color:white;
+    font-size: 100px;
+}
